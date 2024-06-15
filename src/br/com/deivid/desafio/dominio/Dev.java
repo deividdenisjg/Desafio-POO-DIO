@@ -1,4 +1,4 @@
-package br.com.dio.desafio.dominio;
+package br.com.deivid.desafio.dominio;
 
 import java.util.LinkedHashSet;
 import java.util.Optional;
